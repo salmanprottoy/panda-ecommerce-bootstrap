@@ -1,0 +1,30 @@
+.panda-card{
+    border:0;
+}
+.panda-card-footer{
+    border:0;
+    background-color: white;
+}
+.catagories img{
+    width:100px;
+}
+.panda-btn{
+    background-color:deeppink;
+    color:white;
+    border:0;
+}
+.panda-btn:hover{
+    background-color:deeppink;
+    color:white;
+    border:0;
+}
+.panda-slide{
+    background-color:#fceae8;
+    border-radius:1em;
+}
+.panda-container{
+    background-color:#fceae8;
+}
+.panda-bag{
+    background-color:orchid;
+}
